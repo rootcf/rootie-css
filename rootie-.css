@@ -1,6 +1,12 @@
 /* imports */
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 
 /* fonts */
 .poppins{
@@ -9,7 +15,24 @@ font-family:'Poppins',sans-serif;
 .roboto{
 font-family:'Roboto',sans-serif;
 }
-
+.qahiri{
+    font-family: 'Qahiri', sans-serif;
+}
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.yomogi{
+    font-family: 'Yomogi', cursive;
+}
+.tourney{
+font-family: 'Tourney', cursive;
+}
+.cinzel{
+font-family: 'Cinzel', serif;
+}
+.kroneone{
+font-family: 'Krona One', sans-serif;
+}
 /* font color */
 
 .white{
