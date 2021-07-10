@@ -187,6 +187,10 @@ font-weight:100;
     text-decoration: none;
     
 }
+.no-overflow{
+ overflow:hidden;
+ overflow-x:hidden;
+}
 .r-input{
     width:200px;
     height: 30px;
