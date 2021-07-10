@@ -7,8 +7,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Tourney&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 /* fonts */
+.gruppo{
+ font-family: 'Gruppo', cursive; 
+}
+.pressstart{
+ font-family: 'Press Start 2P', cursive;   
+}
+.forum{
+ font-family: 'Forum', cursive;   
+}
+.comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+.vt323{
+    font-family: 'VT323', monospace;
+}
 .poppins{
 font-family:'Poppins',sans-serif;
 }
